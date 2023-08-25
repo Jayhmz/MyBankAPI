@@ -1,2 +1,2 @@
-# MyBankApp
- This is a bank API used to perform transfer and buy airtime 
+# test-redo
+ This is a bank API that perform transfer and purchase of airtime
